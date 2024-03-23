@@ -1,6 +1,6 @@
 def addition(x,  y):
     answer= x+y
-    return answer
+    print (f'Adding the two numbers will give you : {answer}')
 
 name= input("what is you name? : ")
 print (f"Hi {name}, Welcome to the version control and Git Assisgnment!!")
